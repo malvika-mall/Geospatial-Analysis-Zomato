@@ -9,7 +9,7 @@ Observations on the following are made:
   <li>How does the price differ between restaurants that accept online orders and those that don't?</li>
   <li>Types of restaurants available</li>
   <li>Top-rated restaurants</li>
-   <li> Restaurants located at various locations around Bangalore</li>
+   <li> Restaurants located at various locations around Bengaluru</li>
   <li>Heatmap of North Indian and South Indian restaurants</li>
   <li>Favorite dishes in various cuisines represented by a word cloud</li>
 </ul></p>
